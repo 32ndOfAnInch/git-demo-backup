@@ -5,3 +5,5 @@ this was added to check how git GUI works
 
 some content
 some more content
+
+branch content
