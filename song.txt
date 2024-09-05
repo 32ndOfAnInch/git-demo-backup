@@ -4,4 +4,3 @@ this new line was added from github to test how pull from remote works
 this was added to check how git GUI works
 
 some content
-some more content
